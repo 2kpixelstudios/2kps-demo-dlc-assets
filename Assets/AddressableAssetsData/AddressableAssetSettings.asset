@@ -17,7 +17,7 @@ MonoBehaviour:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_DisableCatalogUpdateOnStart: 0
   m_IgnoreUnsupportedFilesInBuild: 0
@@ -25,13 +25,14 @@ MonoBehaviour:
   m_maxConcurrentWebRequests: 500
   m_ContiguousBundles: 1
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: bfd6ec42f4078f44a9e04a6087ab6cc4
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: 8b589fa4370b72b428a90e9014d5d903
   m_overridePlayerVersion: 
   m_GroupAssets:
   - {fileID: 11400000, guid: a5bd7bc75ff0aa34bb69f95ef02039b7, type: 2}
   - {fileID: 11400000, guid: 042d9dcf870a0e64fb2ea6dfc7462885, type: 2}
+  - {fileID: 11400000, guid: 5100619dfc6cec149afbdc51d23bcc4a, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -52,7 +53,7 @@ MonoBehaviour:
       - m_Id: bfd6ec42f4078f44a9e04a6087ab6cc4
         m_Value: ServerData/[BuildTarget]
       - m_Id: 8b589fa4370b72b428a90e9014d5d903
-        m_Value: http://localhost/[BuildTarget]
+        m_Value: https://2kps-demo-dlc-assets.s3.us-east-2.amazonaws.com/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: d62dad02defae46459323563194da392
       m_Name: BuildTarget
@@ -73,6 +74,7 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
+    - spriteIcons
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 8fe9ee93d1cd22942a6a73fcd2cea0cc, type: 2}
