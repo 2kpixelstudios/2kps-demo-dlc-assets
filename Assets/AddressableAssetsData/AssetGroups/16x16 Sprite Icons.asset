@@ -18,12 +18,12 @@ MonoBehaviour:
   m_GUID: 661a804ecfd351946a99b58b1e66625b
   m_SerializeEntries:
   - m_GUID: 752b95d9d1c5c554ab3cc3bcf1ef5895
-    m_Address: Assets/DLC/Sprite Icons
+    m_Address: Sprite Icons
     m_ReadOnly: 0
     m_SerializedLabels:
     - spriteIcons
-    m_MainAsset: {fileID: 102900000, guid: 752b95d9d1c5c554ab3cc3bcf1ef5895, type: 3}
-    m_TargetAsset: {fileID: 102900000, guid: 752b95d9d1c5c554ab3cc3bcf1ef5895, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 29842ea69cbcc434983814f8c4ecdcf5, type: 2}
   m_SchemaSet:
