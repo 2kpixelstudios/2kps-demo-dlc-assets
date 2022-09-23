@@ -17,13 +17,55 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 661a804ecfd351946a99b58b1e66625b
   m_SerializeEntries:
-  - m_GUID: 752b95d9d1c5c554ab3cc3bcf1ef5895
-    m_Address: Sprite Icons
+  - m_GUID: a3dbc882561327344bb616b92e918bdf
+    m_Address: Water Droplet
     m_ReadOnly: 0
     m_SerializedLabels:
     - spriteIcons
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 2800000, guid: a3dbc882561327344bb616b92e918bdf, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: a3dbc882561327344bb616b92e918bdf, type: 3}
+  - m_GUID: d3f8b67b232dbf546bd0e8430b3ab2ac
+    m_Address: Fire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spriteIcons
+    m_MainAsset: {fileID: 2800000, guid: d3f8b67b232dbf546bd0e8430b3ab2ac, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: d3f8b67b232dbf546bd0e8430b3ab2ac, type: 3}
+  - m_GUID: 852a916586ece5f49929f5826657cf6e
+    m_Address: Leaf
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spriteIcons
+    m_MainAsset: {fileID: 2800000, guid: 852a916586ece5f49929f5826657cf6e, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 852a916586ece5f49929f5826657cf6e, type: 3}
+  - m_GUID: 6605ab1b516696e44a4e0d505a61031b
+    m_Address: Coin
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spriteIcons
+    m_MainAsset: {fileID: 2800000, guid: 6605ab1b516696e44a4e0d505a61031b, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 6605ab1b516696e44a4e0d505a61031b, type: 3}
+  - m_GUID: ce6827ec78b023f468274e55936a2f96
+    m_Address: Heart
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spriteIcons
+    m_MainAsset: {fileID: 2800000, guid: ce6827ec78b023f468274e55936a2f96, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ce6827ec78b023f468274e55936a2f96, type: 3}
+  - m_GUID: 6e3561e4ddb9cc54d94d6bc11a8971d4
+    m_Address: Lightning
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spriteIcons
+    m_MainAsset: {fileID: 2800000, guid: 6e3561e4ddb9cc54d94d6bc11a8971d4, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 6e3561e4ddb9cc54d94d6bc11a8971d4, type: 3}
+  - m_GUID: 2a7e1715ced960c47bc3d23fcf1196e1
+    m_Address: Yin-Yang
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spriteIcons
+    m_MainAsset: {fileID: 2800000, guid: 2a7e1715ced960c47bc3d23fcf1196e1, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 2a7e1715ced960c47bc3d23fcf1196e1, type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 29842ea69cbcc434983814f8c4ecdcf5, type: 2}
   m_SchemaSet:
